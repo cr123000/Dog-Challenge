@@ -1,0 +1,5 @@
+B:\Desktop\CSIT\C#\Dog Challenge\obj\Debug\net5.0\Dog Challenge.csprojAssemblyReference.cache
+B:\Desktop\CSIT\C#\Dog Challenge\obj\Debug\net5.0\Dog Challenge.GeneratedMSBuildEditorConfig.editorconfig
+B:\Desktop\CSIT\C#\Dog Challenge\obj\Debug\net5.0\Dog Challenge.AssemblyInfoInputs.cache
+B:\Desktop\CSIT\C#\Dog Challenge\obj\Debug\net5.0\Dog Challenge.AssemblyInfo.cs
+B:\Desktop\CSIT\C#\Dog Challenge\obj\Debug\net5.0\Dog Challenge.csproj.CoreCompileInputs.cache
