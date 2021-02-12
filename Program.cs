@@ -2,9 +2,7 @@
 
 namespace Dog_Challenge
 {
-    class Program
-    { 
-         public enum Gender{
+    public enum Gender{
             Male,
             Female,
          }
@@ -23,10 +21,11 @@ namespace Dog_Challenge
                     for(;barks>0;barks--){
                         Console.WriteLine("Woof!");
                     }
+                
                 }
-                public string GetTag(){
+                 public string GetTag(){
                     string str;
-                    str=$"If lost call{owner}.";
+                    str=$"If lost call {owner}.";
                     if((int)gender==0){
                             str=str+$" His name is {name} and he is {age}";
                     }
@@ -43,12 +42,15 @@ namespace Dog_Challenge
                 }
             }
             
+    class Program
+    { 
+               
              static void Main(string[] args)
             {
-                Dog puppy = Dog("Orion", "Shawn", 1, Gender.Male);  // create object instance
-                puppy.Bark(3); // output: Woof!Woof!Woof!
+                Dog puppy = new Dog("Orion", "Shawn", 1, Gender.Male);  // create object instance
+                puppy.Bark(5); // output: Woof!Woof!Woof!
                 Console.WriteLine(puppy.GetTag()); // output: If lost, call Shawn. His name is Orion and he is 1 year old.
-                Dog myDog = Dog("Lileu", "Dale", 4, Gender.Female);  // create object instance
+                Dog myDog = new Dog("Lileu", "Dale", 4, Gender.Female);  // create object instance
                 myDog.Bark(1); // output: Woof!
                 Console.WriteLine(myDog.GetTag()); // output: If lost, call Dale. Her name is Lileu and she is 4 years old.
             }

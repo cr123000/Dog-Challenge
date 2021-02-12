@@ -3,3 +3,14 @@ B:\Desktop\CSIT\C#\Dog Challenge\obj\Debug\net5.0\Dog Challenge.GeneratedMSBuild
 B:\Desktop\CSIT\C#\Dog Challenge\obj\Debug\net5.0\Dog Challenge.AssemblyInfoInputs.cache
 B:\Desktop\CSIT\C#\Dog Challenge\obj\Debug\net5.0\Dog Challenge.AssemblyInfo.cs
 B:\Desktop\CSIT\C#\Dog Challenge\obj\Debug\net5.0\Dog Challenge.csproj.CoreCompileInputs.cache
+B:\Desktop\CSIT\C#\Dog Challenge\bin\Debug\net5.0\Dog Challenge.exe
+B:\Desktop\CSIT\C#\Dog Challenge\bin\Debug\net5.0\Dog Challenge.deps.json
+B:\Desktop\CSIT\C#\Dog Challenge\bin\Debug\net5.0\Dog Challenge.runtimeconfig.json
+B:\Desktop\CSIT\C#\Dog Challenge\bin\Debug\net5.0\Dog Challenge.runtimeconfig.dev.json
+B:\Desktop\CSIT\C#\Dog Challenge\bin\Debug\net5.0\Dog Challenge.dll
+B:\Desktop\CSIT\C#\Dog Challenge\bin\Debug\net5.0\ref\Dog Challenge.dll
+B:\Desktop\CSIT\C#\Dog Challenge\bin\Debug\net5.0\Dog Challenge.pdb
+B:\Desktop\CSIT\C#\Dog Challenge\obj\Debug\net5.0\Dog Challenge.dll
+B:\Desktop\CSIT\C#\Dog Challenge\obj\Debug\net5.0\ref\Dog Challenge.dll
+B:\Desktop\CSIT\C#\Dog Challenge\obj\Debug\net5.0\Dog Challenge.pdb
+B:\Desktop\CSIT\C#\Dog Challenge\obj\Debug\net5.0\Dog Challenge.genruntimeconfig.cache
